@@ -1,0 +1,10 @@
+{
+    "name": "yubomac/pcc",
+    "authors": [
+        {
+            "name": "leon",
+            "email": "xiaoqi.hu@newairtek.com"
+        }
+    ],
+    "require": {}
+}
