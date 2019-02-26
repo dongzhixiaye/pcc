@@ -1,2 +1,6 @@
 /vendor/
 /.idea
+.gitignore
+.idea/modules.xml
+.idea/pcc.iml
+.idea/workspace.xml
